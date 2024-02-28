@@ -1,8 +1,11 @@
 # Jobs-and-Salaries-in-Data-Science
 
-Jobs and Salaries in Data Science
+Jobs and Salaries in Data Science 
+-Data Analysis 
+-Data visualization
+-Prediction and MSE with ML
 
-You can find the some reviews are the below :
+You can find some reviews below :
 
 
 ![image](https://github.com/simgosh/Jobs-and-Salaries-in-Data-Science/assets/158474992/0f4aea60-1c6d-4594-8d1b-444602b23c94)
